@@ -1,5 +1,5 @@
 [submodule "git-sub-module"]
 	path = git-sub-module
 	url = https://github.com/RojerChen/git-sub-module.git
-	branch = origin/main
+	branch = main
 	update = rebase
